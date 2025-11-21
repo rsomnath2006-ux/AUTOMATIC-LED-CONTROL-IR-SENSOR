@@ -102,8 +102,10 @@ int main(void)
 ---
 ### OUTPUT
 CASE 1: LED ON 
+<img width="1239" height="563" alt="MPMC I" src="https://github.com/user-attachments/assets/db249be0-16cb-4612-ae0f-89c0f68fe180" />
 
 CASE 2: LED OFF
+<img width="1299" height="620" alt="image" src="https://github.com/user-attachments/assets/91246334-b8df-4c6e-a386-6539cd2cbdc2" />
 
 ---
 ### RESULT
